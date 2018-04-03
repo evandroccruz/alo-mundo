@@ -1,2 +1,3 @@
 # alo-mundo
 Inicializar este repositório com um LEIA-ME
+Escrever alguma coisa de nerd aqui...
